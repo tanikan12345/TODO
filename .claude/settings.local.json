@@ -9,7 +9,11 @@
       "Bash(git config *)",
       "Bash(git branch *)",
       "Bash(git -c user.email=\"tani-sns@tanikikan.co.jp\" -c user.name=\"tanikan12345\" commit -m \"Add simple TODO app \\(HTML/CSS/JS, localStorage\\)\")",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Read(//tmp/**)",
+      "Bash(npm init *)",
+      "Bash(npm install *)",
+      "Bash(npx playwright *)"
     ]
   }
 }
